@@ -25,7 +25,7 @@ All features from MorphoLibJ are calculated by the list of pores within the sub-
 5) Rasterise the sub-image over the entire image until the limit is reached.
 6) Save the data in a CSV file.
 
-A more detailed description of the algorithm can be found in the publication (see Cite section).
+A more detailed description of the algorithm can be found in the publication (see Citation section).
 
 [1] R. M. Haralick, K. Shanmugam, and I. Dinstein. “Textural features for image classification”. IEEE Transactions on systems, man, and cybernetics SMC-3.6 (1973), pp. 610–621.\
 [2] D. Legland, I. Arganda-Carreras, and P. Andrey. “MorphoLibJ: integrated library and plugins for mathematical morphology with ImageJ”. Bioinformatics 32.22 (July 2016), pp. 3532–3534.
