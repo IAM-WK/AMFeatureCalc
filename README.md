@@ -30,7 +30,7 @@ A more detailed description of the algorithm can be found in the publication (se
 [1] R. M. Haralick, K. Shanmugam, and I. Dinstein. “Textural features for image classification”. IEEE Transactions on systems, man, and cybernetics SMC-3.6 (1973), pp. 610–621.\
 [2] D. Legland, I. Arganda-Carreras, and P. Andrey. “MorphoLibJ: integrated library and plugins for mathematical morphology with ImageJ”. Bioinformatics 32.22 (July 2016), pp. 3532–3534.
 
-## Cite
+## Citation
 
 ... To be done
 
