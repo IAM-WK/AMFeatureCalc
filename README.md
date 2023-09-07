@@ -32,7 +32,8 @@ A more detailed description of the algorithm can be found in the publication (se
 
 ## Citation
 
-... To be done
+A. Heuer, M. Rees, K. A. Weidenmann, W. V. Liebig. On the Creation and Optical Microstructure Characterisation of Additively Manufactured Foam Structures (AMF). Polymers 2023, 15(17), 3544.
+
 
 ## Prerequisites
 
